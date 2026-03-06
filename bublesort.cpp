@@ -1,5 +1,5 @@
 #include <iostream>
 using namespace std;
 
-int a[20];
+int a[20];//Deklarasi
 int n;
