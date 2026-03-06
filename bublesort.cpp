@@ -72,3 +72,12 @@ void BubbleSort ()//BubbleSort
         cout << endl;
     }
 }
+
+
+int main () // Main
+{
+    input();
+    BubbleSort();
+    display();
+    return 0 ;
+}
